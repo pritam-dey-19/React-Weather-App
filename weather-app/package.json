@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -41,6 +41,6 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3",
-    "homepage":"https://pritam-dey-19.github.io/React-Weather-App/"
+    "homepage": "https://pritam-dey-19.github.io/React-Weather-App"
   }
 }
